@@ -435,7 +435,7 @@ button[kind="header"],
   </p>
   <div class="mob-divider" style="margin-top:16px"></div>
   <p style="font-size:10px;color:#333;text-align:center;letter-spacing:0.04em;margin-top:8px">
-    GROQ · LLAMA 3.1 · MINILM · CHROMADB
+    ABHI
   </p>
 </div>
 
