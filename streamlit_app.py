@@ -624,7 +624,7 @@ with st.sidebar:
     st.markdown(
         '<div style="height:0.5px;background:#1e1e1e;margin:20px 0 10px"></div>'
         '<p style="font-size:10px;color:#333;letter-spacing:0.04em;text-align:center">'
-        'GROQ · LLAMA 3.1 · MINILM · CHROMADB</p>',
+        'ABHI</p>',
         unsafe_allow_html=True,
     )
 
