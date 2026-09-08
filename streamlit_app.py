@@ -501,7 +501,7 @@ def load_llm():
         st.error("GROQ_API_KEY not found in .env / Streamlit secrets.")
         st.stop()
     return ChatGroq(
-        model="llama3-70b-8192",
+        model="openai/gpt-oss-20b",
         groq_api_key=api_key,
         temperature=0,
         max_tokens=1024,
